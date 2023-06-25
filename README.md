@@ -1,4 +1,4 @@
-<h1 align="center"> Phonepe_Pulse Data Visualisation"</h1>
+<h1 align="center"> Phonepe_Pulse Data Visualisation</h1>
 
 ## Installations
 Install the below packages
@@ -50,17 +50,17 @@ ORDER BY "Data"
 
 ## Home
 
-![Home]()
+![Home](https://github.com/RakeshSLRocky/Phonepe-Pulse/blob/main/images/Home.png)
 
 ## MAP
 
-![top queries]()
+![top queries](https://github.com/RakeshSLRocky/Phonepe-Pulse/blob/main/images/Map.png)
 
 ## Insights
 
-![customized queries]()
+![customized queries](https://github.com/RakeshSLRocky/Phonepe-Pulse/blob/main/images/Insights.png)
 
 ## Support
 
-For support, email : danavasanth@gmail.com 
+For support, email : rakeshslrocky@gmail.com
 
