@@ -12,12 +12,12 @@ import ast
 
 
 # opening mysql using create engine module
-# mydb = create_engine("mysql+mysqlconnector://root:9035584074@127.0.0.1:3306/pulse")
+# mydb = create_engine("mysql+mysqlconnector://root:<password>@127.0.0.1:3306/pulse")
 
 conn =msql.connect(host = 'localhost',
             database = 'phonepe_pulse',
             user = "root",
-           password = "9035584074",
+           password = "password",
            port = 3306)
 
 # cursor = mysql.connector.connect(**config)
