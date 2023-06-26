@@ -1,0 +1,601 @@
+Entity_Name,Year,Quarter,Type,Registered_User
+201301,2018,1,Pincode,114625
+500072,2018,1,Pincode,105012
+560068,2018,1,Pincode,98487
+110059,2018,1,Pincode,95496
+110092,2018,1,Pincode,83600
+122001,2018,1,Pincode,82656
+560037,2018,1,Pincode,75304
+395006,2018,1,Pincode,72275
+800001,2018,1,Pincode,71092
+302012,2018,1,Pincode,68098
+201301,2018,2,Pincode,151073
+500072,2018,2,Pincode,129543
+560068,2018,2,Pincode,128921
+110059,2018,2,Pincode,124901
+110092,2018,2,Pincode,108175
+122001,2018,2,Pincode,107275
+800001,2018,2,Pincode,94711
+395006,2018,2,Pincode,94500
+560037,2018,2,Pincode,93771
+302012,2018,2,Pincode,89071
+201301,2018,3,Pincode,188664
+560068,2018,3,Pincode,158659
+110059,2018,3,Pincode,156028
+500072,2018,3,Pincode,152034
+110092,2018,3,Pincode,136676
+122001,2018,3,Pincode,130847
+395006,2018,3,Pincode,113391
+800001,2018,3,Pincode,112494
+560037,2018,3,Pincode,112074
+302012,2018,3,Pincode,107088
+201301,2018,4,Pincode,250205
+110059,2018,4,Pincode,206537
+560068,2018,4,Pincode,201605
+500072,2018,4,Pincode,188465
+110092,2018,4,Pincode,177133
+122001,2018,4,Pincode,163556
+560037,2018,4,Pincode,137280
+395006,2018,4,Pincode,135881
+800001,2018,4,Pincode,134254
+110086,2018,4,Pincode,133412
+bengaluru urban,2018,1,District,1922368
+pune,2018,1,District,1211643
+jaipur,2018,1,District,900773
+mumbai suburban,2018,1,District,719300
+hyderabad,2018,1,District,655175
+rangareddy,2018,1,District,635175
+thane,2018,1,District,631864
+ahmadabad,2018,1,District,572811
+medchal malkajgiri,2018,1,District,549429
+visakhapatnam,2018,1,District,497187
+bengaluru urban,2018,2,District,2553312
+pune,2018,2,District,1592293
+jaipur,2018,2,District,1182983
+mumbai suburban,2018,2,District,957633
+thane,2018,2,District,861292
+hyderabad,2018,2,District,842483
+rangareddy,2018,2,District,804959
+ahmadabad,2018,2,District,751746
+medchal malkajgiri,2018,2,District,696211
+surat,2018,2,District,652372
+bengaluru urban,2018,3,District,3167597
+pune,2018,3,District,1974138
+jaipur,2018,3,District,1438305
+mumbai suburban,2018,3,District,1218632
+thane,2018,3,District,1104206
+hyderabad,2018,3,District,1024241
+rangareddy,2018,3,District,963186
+ahmadabad,2018,3,District,919252
+medchal malkajgiri,2018,3,District,828425
+surat,2018,3,District,808005
+bengaluru urban,2018,4,District,4126734
+pune,2018,4,District,2498852
+jaipur,2018,4,District,1733893
+mumbai suburban,2018,4,District,1578487
+thane,2018,4,District,1473811
+hyderabad,2018,4,District,1336872
+rangareddy,2018,4,District,1217664
+ahmadabad,2018,4,District,1212636
+medchal malkajgiri,2018,4,District,1056739
+surat,2018,4,District,998807
+maharashtra,2018,1,State,4224599
+andhra-pradesh,2018,1,State,2876906
+karnataka,2018,1,State,2833078
+telangana,2018,1,State,2530788
+uttar-pradesh,2018,1,State,2311040
+rajasthan,2018,1,State,2094534
+gujarat,2018,1,State,1997209
+delhi,2018,1,State,1991550
+west-bengal,2018,1,State,1852691
+tamil-nadu,2018,1,State,1407204
+maharashtra,2018,2,State,5662394
+karnataka,2018,2,State,3803760
+andhra-pradesh,2018,2,State,3799643
+telangana,2018,2,State,3232422
+uttar-pradesh,2018,2,State,3103840
+rajasthan,2018,2,State,2776945
+west-bengal,2018,2,State,2709500
+gujarat,2018,2,State,2638004
+delhi,2018,2,State,2628982
+tamil-nadu,2018,2,State,1976268
+maharashtra,2018,3,State,7164638
+karnataka,2018,3,State,4774386
+andhra-pradesh,2018,3,State,4687115
+telangana,2018,3,State,3878226
+uttar-pradesh,2018,3,State,3827243
+west-bengal,2018,3,State,3433059
+rajasthan,2018,3,State,3385413
+delhi,2018,3,State,3345345
+gujarat,2018,3,State,3254915
+tamil-nadu,2018,3,State,2542795
+maharashtra,2018,4,State,9227771
+karnataka,2018,4,State,6216537
+andhra-pradesh,2018,4,State,5927653
+telangana,2018,4,State,4938281
+uttar-pradesh,2018,4,State,4856770
+west-bengal,2018,4,State,4479543
+delhi,2018,4,State,4413619
+rajasthan,2018,4,State,4123652
+gujarat,2018,4,State,4107412
+tamil-nadu,2018,4,State,3379561
+201301,2019,1,Pincode,301260
+110059,2019,1,Pincode,246566
+560068,2019,1,Pincode,237280
+500072,2019,1,Pincode,221180
+110092,2019,1,Pincode,206805
+122001,2019,1,Pincode,194366
+421302,2019,1,Pincode,164019
+110086,2019,1,Pincode,158267
+560078,2019,1,Pincode,157977
+395006,2019,1,Pincode,157558
+201301,2019,2,Pincode,336709
+110059,2019,2,Pincode,274593
+560068,2019,2,Pincode,263531
+500072,2019,2,Pincode,242007
+110092,2019,2,Pincode,228546
+122001,2019,2,Pincode,217913
+421302,2019,2,Pincode,190214
+395006,2019,2,Pincode,180042
+560078,2019,2,Pincode,178837
+110086,2019,2,Pincode,177199
+201301,2019,3,Pincode,369425
+110059,2019,3,Pincode,300007
+560068,2019,3,Pincode,289417
+500072,2019,3,Pincode,261019
+110092,2019,3,Pincode,248727
+122001,2019,3,Pincode,239679
+421302,2019,3,Pincode,217009
+560078,2019,3,Pincode,200025
+395006,2019,3,Pincode,198132
+560076,2019,3,Pincode,194819
+201301,2019,4,Pincode,398548
+110059,2019,4,Pincode,320535
+560068,2019,4,Pincode,313673
+500072,2019,4,Pincode,279498
+110092,2019,4,Pincode,264380
+122001,2019,4,Pincode,258880
+421302,2019,4,Pincode,243170
+560078,2019,4,Pincode,218317
+395006,2019,4,Pincode,214322
+560076,2019,4,Pincode,211683
+bengaluru urban,2019,1,District,5003207
+pune,2019,1,District,3038402
+jaipur,2019,1,District,2060175
+mumbai suburban,2019,1,District,1901210
+thane,2019,1,District,1834051
+hyderabad,2019,1,District,1638436
+rangareddy,2019,1,District,1470874
+ahmadabad,2019,1,District,1450100
+medchal malkajgiri,2019,1,District,1279531
+surat,2019,1,District,1180819
+bengaluru urban,2019,2,District,5694165
+pune,2019,2,District,3514081
+jaipur,2019,2,District,2290462
+mumbai suburban,2019,2,District,2151657
+thane,2019,2,District,2118406
+hyderabad,2019,2,District,1856926
+ahmadabad,2019,2,District,1656341
+rangareddy,2019,2,District,1651300
+medchal malkajgiri,2019,2,District,1428880
+surat,2019,2,District,1338584
+bengaluru urban,2019,3,District,6383771
+pune,2019,3,District,4004991
+jaipur,2019,3,District,2520933
+mumbai suburban,2019,3,District,2407754
+thane,2019,3,District,2396815
+hyderabad,2019,3,District,2071673
+ahmadabad,2019,3,District,1848860
+rangareddy,2019,3,District,1826019
+medchal malkajgiri,2019,3,District,1572320
+surat,2019,3,District,1481391
+bengaluru urban,2019,4,District,7016836
+pune,2019,4,District,4416899
+jaipur,2019,4,District,2746860
+thane,2019,4,District,2638051
+mumbai suburban,2019,4,District,2630360
+hyderabad,2019,4,District,2283903
+ahmadabad,2019,4,District,2015947
+rangareddy,2019,4,District,2001437
+medchal malkajgiri,2019,4,District,1714832
+north twenty four parganas,2019,4,District,1638605
+maharashtra,2019,1,State,11271381
+karnataka,2019,1,State,7628505
+andhra-pradesh,2019,1,State,7163320
+telangana,2019,1,State,6011725
+uttar-pradesh,2019,1,State,5787947
+west-bengal,2019,1,State,5343305
+delhi,2019,1,State,5237132
+rajasthan,2019,1,State,4972334
+gujarat,2019,1,State,4893902
+tamil-nadu,2019,1,State,4077913
+maharashtra,2019,2,State,13006887
+karnataka,2019,2,State,8819775
+andhra-pradesh,2019,2,State,8122150
+telangana,2019,2,State,6797881
+uttar-pradesh,2019,2,State,6570743
+west-bengal,2019,2,State,6197695
+delhi,2019,2,State,5867411
+rajasthan,2019,2,State,5632597
+gujarat,2019,2,State,5561036
+tamil-nadu,2019,2,State,4780432
+maharashtra,2019,3,State,14788009
+karnataka,2019,3,State,10003026
+andhra-pradesh,2019,3,State,9052270
+telangana,2019,3,State,7558464
+uttar-pradesh,2019,3,State,7320861
+west-bengal,2019,3,State,6965658
+delhi,2019,3,State,6447925
+rajasthan,2019,3,State,6269629
+gujarat,2019,3,State,6180779
+tamil-nadu,2019,3,State,5407235
+maharashtra,2019,4,State,16372606
+karnataka,2019,4,State,11181362
+andhra-pradesh,2019,4,State,10171165
+telangana,2019,4,State,8344442
+uttar-pradesh,2019,4,State,8043122
+west-bengal,2019,4,State,7819293
+rajasthan,2019,4,State,6946739
+delhi,2019,4,State,6923795
+gujarat,2019,4,State,6794440
+tamil-nadu,2019,4,State,6116988
+201301,2020,1,Pincode,425915
+110059,2020,1,Pincode,342152
+560068,2020,1,Pincode,334481
+500072,2020,1,Pincode,296003
+110092,2020,1,Pincode,280039
+122001,2020,1,Pincode,277400
+421302,2020,1,Pincode,270275
+560078,2020,1,Pincode,234102
+395006,2020,1,Pincode,230047
+110086,2020,1,Pincode,226703
+201301,2020,2,Pincode,445271
+110059,2020,2,Pincode,365614
+560068,2020,2,Pincode,351484
+500072,2020,2,Pincode,309469
+421302,2020,2,Pincode,298762
+110092,2020,2,Pincode,295000
+122001,2020,2,Pincode,293479
+560078,2020,2,Pincode,247869
+110086,2020,2,Pincode,246312
+395006,2020,2,Pincode,245129
+201301,2020,3,Pincode,472490
+110059,2020,3,Pincode,393571
+560068,2020,3,Pincode,373446
+421302,2020,3,Pincode,328833
+500072,2020,3,Pincode,328018
+110092,2020,3,Pincode,314384
+122001,2020,3,Pincode,314031
+110086,2020,3,Pincode,267186
+560078,2020,3,Pincode,265627
+121004,2020,3,Pincode,261230
+201301,2020,4,Pincode,504506
+110059,2020,4,Pincode,423149
+560068,2020,4,Pincode,399638
+421302,2020,4,Pincode,365506
+500072,2020,4,Pincode,350832
+122001,2020,4,Pincode,336803
+110092,2020,4,Pincode,335783
+110086,2020,4,Pincode,288308
+560078,2020,4,Pincode,285544
+121004,2020,4,Pincode,283882
+bengaluru urban,2020,1,District,7564577
+pune,2020,1,District,4802397
+jaipur,2020,1,District,2966508
+thane,2020,1,District,2878073
+mumbai suburban,2020,1,District,2843378
+hyderabad,2020,1,District,2483843
+ahmadabad,2020,1,District,2185983
+rangareddy,2020,1,District,2166829
+medchal malkajgiri,2020,1,District,1845599
+north twenty four parganas,2020,1,District,1789973
+bengaluru urban,2020,2,District,8028070
+pune,2020,2,District,5144688
+jaipur,2020,2,District,3182014
+thane,2020,2,District,3135101
+mumbai suburban,2020,2,District,3060916
+hyderabad,2020,2,District,2653534
+ahmadabad,2020,2,District,2384154
+rangareddy,2020,2,District,2313748
+north twenty four parganas,2020,2,District,1966125
+medchal malkajgiri,2020,2,District,1963353
+bengaluru urban,2020,3,District,8611452
+pune,2020,3,District,5546002
+jaipur,2020,3,District,3433167
+thane,2020,3,District,3401853
+mumbai suburban,2020,3,District,3304696
+hyderabad,2020,3,District,2875965
+ahmadabad,2020,3,District,2580178
+rangareddy,2020,3,District,2495699
+north twenty four parganas,2020,3,District,2143943
+medchal malkajgiri,2020,3,District,2111567
+bengaluru urban,2020,4,District,9286243
+pune,2020,4,District,6033615
+thane,2020,4,District,3727358
+jaipur,2020,4,District,3679874
+mumbai suburban,2020,4,District,3609970
+hyderabad,2020,4,District,3142385
+ahmadabad,2020,4,District,2787991
+rangareddy,2020,4,District,2704868
+north twenty four parganas,2020,4,District,2321888
+medchal malkajgiri,2020,4,District,2282695
+maharashtra,2020,1,State,17909662
+karnataka,2020,1,State,12250670
+andhra-pradesh,2020,1,State,11261505
+telangana,2020,1,State,9088982
+uttar-pradesh,2020,1,State,8834542
+west-bengal,2020,1,State,8564164
+rajasthan,2020,1,State,7664540
+gujarat,2020,1,State,7435832
+delhi,2020,1,State,7426693
+tamil-nadu,2020,1,State,6843597
+maharashtra,2020,2,State,19485690
+karnataka,2020,2,State,13260948
+andhra-pradesh,2020,2,State,12377106
+telangana,2020,2,State,9787367
+uttar-pradesh,2020,2,State,9620531
+west-bengal,2020,2,State,9447179
+rajasthan,2020,2,State,8458390
+gujarat,2020,2,State,8179241
+delhi,2020,2,State,7953538
+tamil-nadu,2020,2,State,7507769
+maharashtra,2020,3,State,21157387
+karnataka,2020,3,State,14436520
+andhra-pradesh,2020,3,State,13558854
+telangana,2020,3,State,10622210
+uttar-pradesh,2020,3,State,10466228
+west-bengal,2020,3,State,10316294
+rajasthan,2020,3,State,9267112
+gujarat,2020,3,State,8903397
+delhi,2020,3,State,8564250
+tamil-nadu,2020,3,State,8329940
+maharashtra,2020,4,State,23105185
+karnataka,2020,4,State,15704106
+andhra-pradesh,2020,4,State,14756160
+telangana,2020,4,State,11567091
+uttar-pradesh,2020,4,State,11369374
+west-bengal,2020,4,State,11173072
+rajasthan,2020,4,State,10061536
+gujarat,2020,4,State,9691061
+tamil-nadu,2020,4,State,9310206
+delhi,2020,4,State,9222851
+201301,2021,1,Pincode,541127
+110059,2021,1,Pincode,454201
+560068,2021,1,Pincode,427525
+421302,2021,1,Pincode,396179
+500072,2021,1,Pincode,375272
+122001,2021,1,Pincode,361360
+110092,2021,1,Pincode,359376
+110086,2021,1,Pincode,310419
+121004,2021,1,Pincode,306230
+560078,2021,1,Pincode,305721
+201301,2021,2,Pincode,577428
+110059,2021,2,Pincode,485328
+560068,2021,2,Pincode,455417
+421302,2021,2,Pincode,424376
+500072,2021,2,Pincode,398987
+122001,2021,2,Pincode,385555
+110092,2021,2,Pincode,383095
+110086,2021,2,Pincode,332618
+121004,2021,2,Pincode,328000
+560078,2021,2,Pincode,325334
+201301,2021,3,Pincode,618043
+110059,2021,3,Pincode,520096
+560068,2021,3,Pincode,486170
+421302,2021,3,Pincode,456284
+500072,2021,3,Pincode,425197
+122001,2021,3,Pincode,412737
+110092,2021,3,Pincode,409520
+110086,2021,3,Pincode,357590
+121004,2021,3,Pincode,352312
+560078,2021,3,Pincode,346840
+201301,2021,4,Pincode,659549
+110059,2021,4,Pincode,555449
+560068,2021,4,Pincode,517115
+421302,2021,4,Pincode,488443
+500072,2021,4,Pincode,451595
+122001,2021,4,Pincode,440178
+110092,2021,4,Pincode,436075
+110086,2021,4,Pincode,382858
+121004,2021,4,Pincode,376910
+560078,2021,4,Pincode,368213
+bengaluru urban,2021,1,District,9955387
+pune,2021,1,District,6481971
+thane,2021,1,District,4014464
+jaipur,2021,1,District,3951866
+mumbai suburban,2021,1,District,3886500
+hyderabad,2021,1,District,3379663
+ahmadabad,2021,1,District,2999575
+rangareddy,2021,1,District,2906635
+north twenty four parganas,2021,1,District,2491076
+surat,2021,1,District,2458596
+bengaluru urban,2021,2,District,10604609
+pune,2021,2,District,6915820
+thane,2021,2,District,4290066
+jaipur,2021,2,District,4226231
+mumbai suburban,2021,2,District,4151227
+hyderabad,2021,2,District,3598337
+ahmadabad,2021,2,District,3209841
+rangareddy,2021,2,District,3097973
+north twenty four parganas,2021,2,District,2660664
+surat,2021,2,District,2633443
+bengaluru urban,2021,3,District,11321012
+pune,2021,3,District,7398336
+thane,2021,3,District,4597394
+jaipur,2021,3,District,4534297
+mumbai suburban,2021,3,District,4444495
+hyderabad,2021,3,District,3839513
+ahmadabad,2021,3,District,3445024
+rangareddy,2021,3,District,3310906
+north twenty four parganas,2021,3,District,2852030
+surat,2021,3,District,2830392
+bengaluru urban,2021,4,District,12038775
+pune,2021,4,District,7880431
+thane,2021,4,District,4906492
+jaipur,2021,4,District,4841883
+mumbai suburban,2021,4,District,4740546
+hyderabad,2021,4,District,4081185
+ahmadabad,2021,4,District,3679243
+rangareddy,2021,4,District,3523496
+north twenty four parganas,2021,4,District,3043008
+surat,2021,4,District,3026960
+maharashtra,2021,1,State,24859259
+karnataka,2021,1,State,16872002
+andhra-pradesh,2021,1,State,15866819
+telangana,2021,1,State,12440844
+uttar-pradesh,2021,1,State,12250529
+west-bengal,2021,1,State,11986511
+rajasthan,2021,1,State,10857689
+gujarat,2021,1,State,10446756
+tamil-nadu,2021,1,State,10063395
+delhi,2021,1,State,9900103
+maharashtra,2021,2,State,26565470
+karnataka,2021,2,State,18006966
+andhra-pradesh,2021,2,State,16950434
+telangana,2021,2,State,13266158
+uttar-pradesh,2021,2,State,13105377
+west-bengal,2021,2,State,12809639
+rajasthan,2021,2,State,11645052
+gujarat,2021,2,State,11194859
+tamil-nadu,2021,2,State,10756403
+delhi,2021,2,State,10575678
+maharashtra,2021,3,State,28473797
+karnataka,2021,3,State,19273115
+andhra-pradesh,2021,3,State,18190069
+telangana,2021,3,State,14190436
+uttar-pradesh,2021,3,State,14072052
+west-bengal,2021,3,State,13747279
+rajasthan,2021,3,State,12541009
+gujarat,2021,3,State,12039461
+tamil-nadu,2021,3,State,11532845
+delhi,2021,3,State,11328366
+maharashtra,2021,4,State,30382308
+karnataka,2021,4,State,20533384
+andhra-pradesh,2021,4,State,19421125
+telangana,2021,4,State,15112933
+uttar-pradesh,2021,4,State,15041364
+west-bengal,2021,4,State,14674430
+rajasthan,2021,4,State,13420570
+gujarat,2021,4,State,12876268
+tamil-nadu,2021,4,State,12305518
+delhi,2021,4,State,12088384
+201301,2022,1,Pincode,698600
+110059,2022,1,Pincode,588266
+560068,2022,1,Pincode,545827
+421302,2022,1,Pincode,518716
+500072,2022,1,Pincode,476073
+122001,2022,1,Pincode,465984
+110092,2022,1,Pincode,460951
+110086,2022,1,Pincode,406863
+121004,2022,1,Pincode,400283
+560078,2022,1,Pincode,388154
+201301,2022,2,Pincode,735907
+110059,2022,2,Pincode,619737
+560068,2022,2,Pincode,573310
+421302,2022,2,Pincode,547501
+500072,2022,2,Pincode,499269
+122001,2022,2,Pincode,490709
+110092,2022,2,Pincode,484816
+110086,2022,2,Pincode,429566
+121004,2022,2,Pincode,422488
+560078,2022,2,Pincode,407066
+201301,2022,3,Pincode,774591
+110059,2022,3,Pincode,652328
+560068,2022,3,Pincode,601656
+421302,2022,3,Pincode,577754
+500072,2022,3,Pincode,523196
+122001,2022,3,Pincode,516313
+110092,2022,3,Pincode,509260
+110086,2022,3,Pincode,453393
+121004,2022,3,Pincode,445822
+201009,2022,3,Pincode,428994
+201301,2022,4,Pincode,814008
+110059,2022,4,Pincode,685596
+560068,2022,4,Pincode,630255
+421302,2022,4,Pincode,608005
+500072,2022,4,Pincode,547282
+122001,2022,4,Pincode,542209
+110092,2022,4,Pincode,534009
+110086,2022,4,Pincode,477514
+121004,2022,4,Pincode,468607
+201009,2022,4,Pincode,451153
+bengaluru urban,2022,1,District,12707664
+pune,2022,1,District,8331582
+thane,2022,1,District,5196050
+jaipur,2022,1,District,5133527
+mumbai suburban,2022,1,District,5017556
+hyderabad,2022,1,District,4306136
+ahmadabad,2022,1,District,3897869
+rangareddy,2022,1,District,3722676
+north twenty four parganas,2022,1,District,3224459
+surat,2022,1,District,3210535
+bengaluru urban,2022,2,District,13342916
+pune,2022,2,District,8757249
+thane,2022,2,District,5471749
+jaipur,2022,2,District,5409763
+mumbai suburban,2022,2,District,5281053
+hyderabad,2022,2,District,4519625
+ahmadabad,2022,2,District,4105172
+rangareddy,2022,2,District,3911372
+north twenty four parganas,2022,2,District,3397791
+surat,2022,2,District,3385398
+bengaluru urban,2022,3,District,13997602
+pune,2022,3,District,9194074
+thane,2022,3,District,5757165
+jaipur,2022,3,District,5696726
+mumbai suburban,2022,3,District,5555095
+hyderabad,2022,3,District,4739891
+ahmadabad,2022,3,District,4319512
+rangareddy,2022,3,District,4105107
+north twenty four parganas,2022,3,District,3578500
+surat,2022,3,District,3567767
+bengaluru urban,2022,4,District,14654455
+pune,2022,4,District,9622338
+thane,2022,4,District,6042267
+jaipur,2022,4,District,5975863
+mumbai suburban,2022,4,District,5831539
+hyderabad,2022,4,District,4962214
+ahmadabad,2022,4,District,4530853
+rangareddy,2022,4,District,4296707
+north twenty four parganas,2022,4,District,3755017
+surat,2022,4,District,3747780
+maharashtra,2022,1,State,32178480
+karnataka,2022,1,State,21716655
+andhra-pradesh,2022,1,State,20597997
+telangana,2022,1,State,15981088
+uttar-pradesh,2022,1,State,15960778
+west-bengal,2022,1,State,15564695
+rajasthan,2022,1,State,14264781
+gujarat,2022,1,State,13662366
+tamil-nadu,2022,1,State,13030708
+delhi,2022,1,State,12799896
+maharashtra,2022,2,State,33873993
+karnataka,2022,2,State,22830610
+andhra-pradesh,2022,2,State,21715010
+uttar-pradesh,2022,2,State,16837340
+telangana,2022,2,State,16801940
+west-bengal,2022,2,State,16409518
+rajasthan,2022,2,State,15053100
+gujarat,2022,2,State,14405223
+tamil-nadu,2022,2,State,13719467
+delhi,2022,2,State,13480522
+maharashtra,2022,3,State,35618971
+karnataka,2022,3,State,23972733
+andhra-pradesh,2022,3,State,22867033
+uttar-pradesh,2022,3,State,17745518
+telangana,2022,3,State,17647390
+west-bengal,2022,3,State,17289847
+rajasthan,2022,3,State,15855948
+gujarat,2022,3,State,15169257
+tamil-nadu,2022,3,State,14432330
+delhi,2022,3,State,14187485
+maharashtra,2022,4,State,37327222
+karnataka,2022,4,State,25085468
+andhra-pradesh,2022,4,State,23971840
+uttar-pradesh,2022,4,State,18631111
+telangana,2022,4,State,18479117
+west-bengal,2022,4,State,18122196
+rajasthan,2022,4,State,16604158
+gujarat,2022,4,State,15906263
+tamil-nadu,2022,4,State,15122589
+delhi,2022,4,State,14899159
