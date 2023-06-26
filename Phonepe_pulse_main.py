@@ -28,8 +28,6 @@ cursor = conn.cursor()
 # for i in rows:
 #     print(i)
 
-
-
 st.set_page_config(page_title='Phonepe Pulse', page_icon = 'phonepe.jpg', layout='wide')
 st.title(':violet[PhonePe Pulse Data Visualization]')
 
@@ -40,12 +38,11 @@ with head1:
 with head2:
     tit1,tit2=st.columns([0.456,2])
     with tit1:
-        st.markdown("<h2 style= 'color: white;font-size: 34px;'>PhonePe Pulse  |</h2>", unsafe_allow_html=True)
-    with tit2:
-        st.markdown("<h2 style= 'color: #9932CC;font-weight: normal;font-size: 34px;'>The Best of Progress</h2>", unsafe_allow_html=True)
-st.write('')
-st.write('')
-st.write('')
+        st.markdown("<h2 style= 'color: #9932CC;font-size: 34px;'>PhonePe Pulse  </h2>", unsafe_allow_html=True)
+    # with tit2:
+        # st.markdown("<h2 style= 'color: #9932CC;font-weight: normal;font-size: 34px;'>The Best of Progress</h2>", unsafe_allow_html=True)
+# st.write('')
+# st.write('')
 # left,optioncontainer,right=st.columns([0.2,3,0.2])
 
 selected=option_menu(menu_title='', options=['Home','Map','Insights'],icons=['house','globe2','graph-up-arrow'],orientation='horizontal',styles={
@@ -54,8 +51,8 @@ selected=option_menu(menu_title='', options=['Home','Map','Insights'],icons=['ho
             "nav-link": {"font-size": "18px", "text-align": "left", "margin":"0px", "--hover-color": "#391C59"},
             "nav-link-selected": {"background-color": "#691592"}  })
 st.write('')
-st.write('')
-st.write('')
+# st.write('')
+# st.write('')
 
 if selected == 'Home':
     col1,col2 = st.columns(2)
@@ -63,6 +60,15 @@ if selected == 'Home':
         st.video("https://www.youtube.com/watch?v=c_1H6vivsiA")
         st.download_button(label="Download PhonePe App!",
                        data="https://www.phonepe.com/app-download/")
+
+        st.title('GitHub')
+        st.write('')
+        st.write('A home for the data that powers the PhonePe Pulse website.')
+        st.write('')
+        url = 'https://github.com/PhonePe/pulse#readme'
+
+        if st.button('GitHub'):
+            webbrowser.open_new_tab(url)
 
     with col2:
         st.write(
@@ -79,53 +85,39 @@ if selected == 'Home':
         "PhonePe Pulse is your window to the world of how India transacts with interesting trends, deep insights and in-depth analysis based on our data put together by the PhonePe team.")
 
         st.title('Data APIs')
-        st.write('')
+        # st.write('')
         st.write("""
             This data has been structured to provide details on data cuts of Transactions and Users on the Explore tab.
             """)
-        st.write('')
+        # st.write('')
         aggcol, mapcol, topcol = st.columns([2.1, 1.4, 1.3])
         with aggcol:
             st.subheader('Aggregated')
-            st.write('')
+            # st.write('')
             st.write('Aggregated values of various payment categories as shown under Categories section')
-            st.write('')
+            # st.write('')
         with mapcol:
             st.subheader('Map')
-            st.write('')
+            # st.write('')
             st.write('Total values at the State and District levels')
-            st.write('')
+            # st.write('')
         with topcol:
             st.subheader('Top')
-            st.write('')
+            # st.write('')
             st.write('Totals of top States / Districts / Pin Codes')
-            st.write('')
+            # st.write('')
 
-        st.write('')
-        st.title('GitHub')
-        st.write('')
-        st.write('A home for the data that powers the PhonePe Pulse website.')
-        st.write('')
-        url = 'https://github.com/PhonePe/pulse#readme'
-
-        if st.button('GitHub'):
-            webbrowser.open_new_tab(url)
 
 if selected=='Map':
-    col1,col3, col2 = st.columns([1.8,0.22, 1])
+    col1, col2 = st.columns([1, 1])
     with col1:
-        st.subheader('All India')
-        st.write('')
         optcol,yearcol,qurcol,noncol=st.columns([0.5,0.2,0.2,0.1])
         with optcol:
-            st.write('Select Type')
-            option=st.selectbox(label='',options=['Transaction','Users'])
+            option=st.selectbox(label='Select Type',options=['Transaction','Users'])
         with yearcol:
-            st.write('Select Year')
-            year=st.selectbox(label='',options=['2018','2019','2020','2021','2022'])
+            year=st.selectbox(label='Select Year',options=['2018','2019','2020','2021','2022'])
         with qurcol:
-            st.write('Select Quarter')
-            quarter=st.selectbox(label='',options=['1','2','3','4'])
+            quarter=st.selectbox(label='Select Quarter',options=['1','2','3','4'])
         with noncol:
             st.write('')
         if option=='Transaction':
@@ -263,7 +255,7 @@ if selected=='Map':
 
             st.markdown("<h2 style= 'color: #05C3DE;font-weight: normal;font-size: 38px;'><b>Transaction</b></h2>",
                         unsafe_allow_html=True)
-            st.write('')
+            # st.write('')
             st.markdown(
                 "<h2 style= 'color: black;font-weight: normal;font-size: 18px;'><b>All PhonePe Transaction(UPI+Cards+Wallets)</b></h2>",
                 unsafe_allow_html=True)
@@ -273,8 +265,8 @@ if selected=='Map':
             st.markdown(
                 r"<h2 style= 'color: #05C3DE;font-weight: normal;font-size: 40px;'><b>{}</b></h2>".format(amount),
                 unsafe_allow_html=True)
-            st.write('')
-            totcol, avgcol = st.columns([1.5, 0.9])
+            # st.write('')
+            totcol, avgcol = st.columns([1,1])
             with totcol:
                 st.markdown(
                     "<h2 style= 'color: black;font-weight: normal;font-size: 18px;'><b>Total payment </b></h2>",
@@ -289,25 +281,26 @@ if selected=='Map':
                 st.markdown(
                     r"<h2 style= 'color: #05C3DE;font-weight: normal;font-size: 24px;'><b>{}</b></h2>".format(average),
                     unsafe_allow_html=True)
-            st.write('')
+            # st.write('')
             st.subheader('Categories')
-            st.write('')
-            keycate, valcate = st.columns([1.5, 1])
+            # st.write('')
+            keycate, valcate = st.columns([0.8,0.8])
             with keycate:
                 for i in range(5):
                     st.markdown(
                         "<h2 style= 'color: black;font-weight: normal;font-size: 18px;'><b>{}</b></h2>".format(
                             catekey[i]),
                         unsafe_allow_html=True)
-            st.write('')
+            # st.write('')
             with valcate:
                 for i in range(5):
                     st.markdown(
                         "<h2 style= 'color: #05C3DE;font-weight: normal;font-size: 18px;'><b>{}</b></h2>".format(
                             format_currency(cateval[i], 'INR', locale='en_IN')[1:-3]),
                         unsafe_allow_html=True)
-            st.write('#')
+            # st.write('#')
             # selecttop = st.selectbox(label='Top 10 Records ', options=['States', 'Districts', 'Pincodes'])
+
             selecttop = option_menu(menu_title='', icons=['bar-chart-line', 'bar-chart', 'bar-chart-line-fill'],
                                     options=['States', 'Districts', 'Pincodes'], orientation='horizontal', styles={
                     "container": {"background-color": "#480668"},
@@ -315,7 +308,7 @@ if selected=='Map':
                     "nav-link": {"font-size": "12px", "text-align": "left", "margin": "0px",
                                  "--hover-color": "#391C59"},
                     "nav-link-selected": {"background-color": "#691592"}})
-            st.write('')
+            # st.write('')
             select = 'select * from phonepe_pulse.toptrans where Year={} and Quarter={} '.format(year, qurt)
             cursor.execute(select)
             result = cursor.fetchall()
@@ -334,8 +327,8 @@ if selected=='Map':
                     toppinamount.append(i)
             if selecttop == 'States':
                 st.subheader('Top 10 States')
-                st.write('')
-                statekey, stateval = st.columns([2.8, 0.8])
+                # st.write('')
+                statekey, stateval = st.columns([1,1])
                 with statekey:
                     for i in range(0, 10):
                         st.markdown(
@@ -351,8 +344,8 @@ if selected=='Map':
 
             elif selecttop == 'Districts':
                 st.subheader('Top 10 Districts')
-                st.write('')
-                diskey,disval=st.columns([2.8, 0.8])
+                # st.write('')
+                diskey,disval=st.columns([1, 1])
                 with diskey:
                     for i in range(0,10):
                         st.markdown(
@@ -365,7 +358,7 @@ if selected=='Map':
                             unsafe_allow_html=True)
             else:
                 st.subheader('Top 10 Pincodes')
-                st.write('')
+                # st.write('')
                 pinkey,pinval=st.columns([1,1])
                 with pinkey:
                     for i in range(0,10):
@@ -955,21 +948,21 @@ if selected=='Insights':
 
             st.write('')
             if userselect=='Registered Phonepe':
-                rtcol1, rtcol2, rtcol3 = st.columns([3, 1, 0.5])
+                rtcol1, rtcol2 = st.columns([1.8, 1])
                 with rtcol1:
                     st.subheader('State')
                     for i in range(36):
                         st.write(df['State'][i])
                 with rtcol2:
-                    st.subheader('Count')
+                    st.subheader('Registered_Count')
                     for i in range(36):
                         st.write(str(df['Count'][i]))
-                with rtcol3:
-                    st.subheader('Year')
-                    for i in range(36):
-                        st.write(str(selectedyear))
+                # with rtcol3:
+                #     st.subheader('Year')
+                #     for i in range(36):
+                #         st.write(str(selectedyear))
             elif userselect=='App Opens':
-                rtcol1, rtcol2, rtcol3 = st.columns([3, 1, 0.5])
+                rtcol1, rtcol2 = st.columns([1.8, 1])
                 with rtcol1:
                     st.subheader('State')
                     for i in range(36):
@@ -978,10 +971,10 @@ if selected=='Insights':
                     st.subheader('AppOpens')
                     for i in range(36):
                         st.write(str(df['AppOpens'][i]))
-                with rtcol3:
-                    st.subheader('Year')
-                    for i in range(36):
-                        st.write(str(selectedyear))
+                # with rtcol3:
+                #     st.subheader('Year')
+                #     for i in range(36):
+                #         st.write(str(selectedyear))
 
 
         elif visselection=='Top 10':
@@ -999,7 +992,7 @@ if selected=='Insights':
 
             st.write('')
             if topselect=='State':
-                rtcol1, rtcol2, rtcol3 = st.columns([1.5, 1.9, 0.5])
+                rtcol1, rtcol2 = st.columns([1.5, 1.9])
                 with rtcol1:
                     st.subheader('State')
                     for i in range(10):
@@ -1008,13 +1001,10 @@ if selected=='Insights':
                     st.subheader('Registered_User')
                     for i in range(10):
                         st.write(str(df['Registered_User'][i]))
-                with rtcol3:
-                    st.subheader('Year')
-                    for i in range(10):
-                        st.write(str(topstatyear))
+
 
             elif topselect=='District':
-                rtcol1, rtcol2, rtcol3 = st.columns([1.5, 1.9, 0.5])
+                rtcol1, rtcol2 = st.columns([1.5, 1.9])
                 with rtcol1:
                     st.subheader('District')
                     for i in range(10):
@@ -1030,7 +1020,7 @@ if selected=='Insights':
 
             # elif topselect=='Pincode':
             else:
-                rtcol1, rtcol2, rtcol3 = st.columns([1,1.9,1])
+                rtcol1, rtcol2 = st.columns([1.5, 1.9])
                 with rtcol1:
                     st.subheader('Pincode')
                     for i in range(10):
